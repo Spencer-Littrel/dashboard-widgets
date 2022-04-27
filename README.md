@@ -13,5 +13,7 @@ The concept of a Dashboard appears nearly everywhere. Most obvious are car dashb
 * Dashboards convey information in real-time — without prompting
 * Apply concepts from Web Design 1 and 2 with APIs from Web 3
 
-## Citations
-List your sources here
+## Sources
+CSS Grid Generator - https://cssgrid-generator.netlify.app/ 
+Favicon.io - https://favicon.io/favicon-generator/ 
+
