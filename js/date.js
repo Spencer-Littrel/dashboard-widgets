@@ -16,13 +16,13 @@ const allTheMonths = [
   "December"
 ];
 const allTheDays = [
-  "Sunday",
-  "Monday",
-  "Tuesday",
-  "Wednesday",
-  "Thursday",
-  "Friday",
-  "Saturday"
+  "SUN",
+  "MON",
+  "TUE",
+  "WED",
+  "THU",
+  "FRI",
+  "SAT"
 ];
 
 /************
@@ -31,7 +31,7 @@ Dynamic Data
 // Get and store current date and time with `new Date()` object
 const dateNow = new Date();
 // Check-Check: See all `Date()` methods and properties
-console.log( dateNow );
+console.log(dateNow);
 
 const gotMonth = dateNow.getMonth();
 // Get current day of the month
