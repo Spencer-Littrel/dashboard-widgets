@@ -16,4 +16,5 @@ The concept of a Dashboard appears nearly everywhere. Most obvious are car dashb
 ## Sources
 CSS Grid Generator - https://cssgrid-generator.netlify.app/ 
 Favicon.io - https://favicon.io/favicon-generator/ 
+Chillax Font - https://www.fontshare.com/fonts/chillax
 

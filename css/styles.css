@@ -1,3 +1,5 @@
+@import url('chillax.css');
+
 /* Body */
 body {
   background-color: rgb(0, 0, 0);
@@ -40,9 +42,12 @@ section {
 
   /* Relative Parent. Absolute Child */
   position: relative;
+
+  font-family: 'Chillax-Light';
 }
 
 /* Titles */
 h1 {
   color: rgb(0, 242, 255);
+  font-family: 'Chillax-Bold';
 }
