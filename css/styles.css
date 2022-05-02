@@ -66,3 +66,8 @@ h1 {
 section:hover {
   filter: drop-shadow(0px 10px 10px #44a0dd);
 }
+
+.description {
+  font-family: 'Chillax-Regular';
+  margin: 10px;
+}
