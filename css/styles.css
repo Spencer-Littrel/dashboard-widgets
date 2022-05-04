@@ -5,26 +5,36 @@ body {
   background-color: rgb(0, 0, 0);
   display: flex;
   justify-content: center;
+  align-content: center;
+  height: 100vh;
 }
 
 /* Grid */
-.layout {   
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(3, 1fr);
-    grid-column-gap: 0px;
-    grid-row-gap: 0px;
-    
-        justify-items: center;
-        margin: 1em;
-        width: 30em;
-      
-    }
+.layout {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
 
-    .time { grid-area: 1 / 1 / 2 / 2; }
-    .date { grid-area: 2 / 2 / 3 / 3; }
-    .weather { grid-area: 3 / 1 / 4 / 2; }
-    
+  justify-items: center;
+  margin: 1em;
+  width: 30em;
+
+}
+
+.time {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.date {
+  grid-area: 2 / 2 / 3 / 3;
+}
+
+.weather {
+  grid-area: 3 / 1 / 4 / 2;
+}
+
 /* Widgets */
 section {
   /* Flex */
